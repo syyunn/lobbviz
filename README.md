@@ -5,5 +5,5 @@ lobby interactions visualized - how/why/what can we get from the visualization
 https://www.washingtonpost.com/politics/2018/10/19/this-is-what-saudi-arabias-influence-network-washington-looks-like/
 
 ### Open secret
-this group already provides visualized info about data summary they have in US lobby politics. Not analyzed but rather raw.
+this group already provides visualized info about data summary they have in US lobby politics. Not analyzed and rather raw.
 https://www.opensecrets.org/federal-lobbying/summary?__cf_chl_captcha_tk__=6a52ce92cc4624c0fc91c6a379935d7226dcc123-1587896672-0-AXnKKCphAHAAs-81Byj8lx-L485xvjfYNSwCZG5KlaZ3HbgFLfHJfJEk_WAi3suqViaX4nUL8zov0YqWWUuOifX86O-i5o4b3VoGrXgsXNVnVNfzJVkuWRtZ7D4nNItRhkuQasqyZrgQ-YlIeDKHBjsLUzqXvwtfoGZqqEr31MOApu56-opPAx732uZC4YngmarA6bvbi69tpBfzpcZ0TJTPyus9lbCWzsIxdBZ57b-BW86OEYGk181edYPh8N99e5EL4iqKbB3mn6aRNlzU1yasKLYQKLn-mul3JJ3_gkik0BO3gFUp9sH-Mn0MiobDjSgkXi65Dn5VA9aSFRGvScAodMcRUCf3SOX1syOorgJfLW8KwkU_Hc7IfeWlnfa_gZWjHapNR5NOzPX_3vBMoh5IMMRSMDgS8KnSkMQTe75tL9CKiW6PWmMRL_HhD-Yw5_T67VaAaZCuj1PJVZ691MnR1aYcwn7LeSYZ82sscA2sr9y-IA9dI8xqgfQtV40JqCfJ4ZbwBizbgWT43M6eTwjYK3KilsGqz6Gx_aKh7T_hKWzHqcoFjfHrJ4ZkFIwI86Q2dmAs5M57ZTj4MUQdYH0
